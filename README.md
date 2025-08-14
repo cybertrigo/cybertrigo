@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm Ajitesh
 
 🎓 **B.Tech CSE (1st Year)** | Cybersecurity Learner  
 💻 Exploring **Ethical Hacking**, **Web Security**, and **Linux**  
