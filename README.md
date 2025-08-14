@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]  
 
-<!--
-**cybertrigo/cybertrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (1st Year)** | Cybersecurity Learner  
+💻 Exploring **Ethical Hacking**, **Web Security**, and **Linux**  
+🚀 Currently on a 100+ day cybersecurity learning journey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills I'm Learning
+- Networking Basics  
+- Web Reconnaissance & Enumeration  
+- Linux Essentials  
+- Scripting with Python  
+
+---
+
+### 📚 Current Focus
+- Daily security labs & exercises  
+- Building projects & scripts for GitHub  
+- Preparing for beginner-friendly cybersecurity certifications  
+
+---
+
+📫 **Connect with me**:  
+[LinkedIn](#) | [Portfolio Website](#) (coming soon)
